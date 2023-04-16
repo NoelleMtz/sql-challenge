@@ -1,5 +1,5 @@
 # sql-challenge
-
+Used <https://www.mssqltips.com/sqlservertip/6769/sql-server-drop-table-if-exists/> for schema instead of going through code one by one.
 ## Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site.
 
